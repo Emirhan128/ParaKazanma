@@ -1,0 +1,6 @@
+{
+  "bb_sync_version":"1.0",
+  "name":"otokazanbot",
+  "csv_url":"https://github.com/yusiqo/ParaKazanma.git",
+  "git_remote":"git@github.com:yusiqo/ParaKazanma.git"
+}
