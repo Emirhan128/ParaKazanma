@@ -1,5 +1,5 @@
-# otokazanbot - chat bot
-It is repository for chat bot: [@otokazanbot](https://t.me/otokazanbot)
+# BigKnives - chat bot
+It is repository for chat bot: [@BigKnives](https://t.me/BigKnives)
 
 ## What it is?
 This repository can be imported to [Bots.Business](https://bots.business) as a worked chat bot.
