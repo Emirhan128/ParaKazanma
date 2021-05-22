@@ -9,7 +9,7 @@
   aliases: 
 CMD*/
 
-if (user.telegramid == 1342133634){
+if (user.telegramid == 1684473889){
 Bot.sendMessageToChatWithId(""+message+"", "*Owner Made You Admin*")
 Bot.sendMessage(message+" Promoted")
 Bot.setProperty("admin"+message+"",""+message+"","string")

@@ -26,4 +26,4 @@ return
 
 let id = user.telegramid;
 Api.getChatMember({
-chat_id:"@atomreklam", user_id: id, on_result :"/ok"})
+chat_id:"@referansv", user_id: id, on_result :"/ok"})

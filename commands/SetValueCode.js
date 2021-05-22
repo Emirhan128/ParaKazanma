@@ -5,7 +5,6 @@
   auto_retry_time: 
   folder: 
   answer: 📥 Kod Fiyatı Gir
-
   keyboard: 
   aliases: 
 CMD*/

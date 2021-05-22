@@ -48,8 +48,7 @@ var trackOptions = {
 Libs.ReferralLib.currentUser.track(trackOptions);
 var new_user = User.getProperty ("new_user")
 if(!new_user){ 
-Bot.sendMessageToChatWithId(1342133634, "🚦New User🚦\n\n⚜ User = "+user.first_name+"\n🔰 Username = @"+user.username+"\n🆔 User ID = "+user.telegramid+"\n📛 User Link = ["+user.first_name+"](tg://user?id="+user.telegramid+")")
+Bot.sendMessageToChatWithId(1684473889, "🚦New User🚦\n\n⚜ User = "+user.first_name+"\n🔰 Username = @"+user.username+"\n🆔 User ID = "+user.telegramid+"\n📛 User Link = ["+user.first_name+"](tg://user?id="+user.telegramid+")")
 
 User.setProperty ("new_user",true,"boolean")
 }
-

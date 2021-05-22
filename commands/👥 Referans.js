@@ -10,6 +10,6 @@
 CMD*/
 
 var button = [
-[{title: "Ref Linkiniz 🔎",command: "reflink"}],[{title: "En İyi Refler 🏆", command: "topref"}],[{title: "Reflerim 📝", command: "reflerim"}]
+[{title: "Ref Linkiniz 🔎",command: "reflink"}],[{title: "En İyi Refler 🏆", command: "🎖Top Referals"}],[{title: "🏅 Refferal Detail 📝", command: "reflerim"}]
 ];
 Bot.sendInlineKeyboard(button,"Selam "+user.first_name+" \n Referans Menusuna Hoş Geldin ")

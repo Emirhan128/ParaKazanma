@@ -15,7 +15,7 @@ if(user.telegramid == admin){
 var tg =
 User.getProperty("MsgId")
 Bot.sendMessage("*Message:* "+message+"*\n Has been sent*")
-Bot.sendMessageToChatWithId(tg, "*Admin Has Messaged You\n=======================*\n\n_"+message+"_")
+Bot.sendMessageToChatWithId(tg, "*Admin Has Messaged You\n*\n\n_"+message+"_")
 }else{
 Bot.sendMessage("You Are Not An Admin")
 }
