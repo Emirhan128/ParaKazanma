@@ -16,7 +16,7 @@ Bot.sendMessage("*You're Ban*");
 }else{
 
 let res = Libs.ResourcesLib.userRes("referral");
-let reflink=Libs.ReferralLib.currentUser.getRefLink(""+bot.name+"","Bot");
+let reflink=Libs.ReferralLib.currentUser.getRefLink("Tezns_bot","Bot");
 let lib = Libs.ReferralLib
 var refList = lib.currentUser.refList.get();
 Bot.sendMessage(""+reflink+"");

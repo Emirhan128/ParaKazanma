@@ -10,4 +10,4 @@
 CMD*/
 
 Bot.sendMessage("✅ Messaj Admine Gönderildi")
-Bot.sendMessageToChatWithId(1342133634, "*New Support Message\n\n🤴Name:*  ["+user.first_name+"](https://t.me/"+user.username+")\n*💡Id:* "+user.telegramid+"\n⛱️Profile [Link](tg://user?id="+user.telegramid+")\n\n*📥Message: * "+message+"")
+Bot.sendMessageToChatWithId(1684473889, "*New Support Message\n\n🤴Name:*  ["+user.first_name+"](https://t.me/"+user.username+")\n*💡Id:* "+user.telegramid+"\n⛱️Profile [Link](tg://user?id="+user.telegramid+")\n\n*📥Message: * "+message+"")

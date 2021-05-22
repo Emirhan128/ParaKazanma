@@ -4,8 +4,8 @@
   need_reply: 
   auto_retry_time: 
   folder: 
-  answer: 
-  keyboard: 
+  answer: start
+  keyboard: /start
   aliases: 
 CMD*/
 
@@ -25,4 +25,3 @@ Bot.sendKeyboard("💰 Bakiye,👨‍💻Admin Panel,\n👥 Referans,🎰 Bonus,
 if (user=="left"){
 Bot.runCommand("/start");
 }
-

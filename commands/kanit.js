@@ -17,4 +17,3 @@ User.getProperty("Caption")
 Bot.sendMessage("*📩 Fotoğraf admine Gönderildi *")
 Api.sendPhoto({ chat_id: admin, photo: pic.file_id })
 Bot.sendInlineKeyboardToChatWithId(admin,button,"*📥 Yeni Kanıt \n\n🧑🏻‍💻 User =*  ["+user.first_name+"](tg://user?id="+user.telegramid+")\n\n\*🔮 His Telegram Id :* "+user.telegramid +"\n\n*📮 His Username :* *@"+user.username+"*")
-
