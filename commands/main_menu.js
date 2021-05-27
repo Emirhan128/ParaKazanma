@@ -25,4 +25,3 @@ Bot.sendKeyboard("💰 Bakiye,👨‍💻Admin Panel,\n👥 Referans,🎰 Bonus,
 if (user=="left"){
 Bot.runCommand("/start");
 }
-

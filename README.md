@@ -1,5 +1,5 @@
-# otokazanbot - chat bot
-It is repository for chat bot: [@otokazanbot](https://t.me/otokazanbot)
+# Tezns_bot - chat bot
+It is repository for chat bot: [@Tezns_bot](https://t.me/Tezns_bot)
 
 ## What it is?
 This repository can be imported to [Bots.Business](https://bots.business) as a worked chat bot.

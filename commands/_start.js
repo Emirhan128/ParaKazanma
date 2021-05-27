@@ -52,4 +52,3 @@ Bot.sendMessageToChatWithId(1342133634, "🚦New User🚦\n\n⚜ User = "+user.f
 
 User.setProperty ("new_user",true,"boolean")
 }
-
